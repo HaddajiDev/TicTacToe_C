@@ -33,7 +33,7 @@ Extract both SDL2 and SDL2_ttf, then set the appropriate include and library dir
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/HaddajiDev/TicTacToe_C.git
-   cd tic-tac-toe-sdl2
+   cd TicTacToe_C
    ```
 
 2. **Compile the program**:
