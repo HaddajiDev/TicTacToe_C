@@ -56,7 +56,7 @@ void CheckWin(char current_squares[3][3], int empty_spaces, int *showRestart) {
         *showRestart = 1;
     }
 
-    if(empty_spaces <= 0 && *running) {
+    if(empty_spaces <= 0) {
         printf("Tie\n");
         *showRestart = 1;
     }
